@@ -1,0 +1,48 @@
+COPYRIGHT
+
+PLED-Drive Research License (Custom, v1.1)
+© 2025 Harrison Saavedra
+
+This document, including its conceptual framework, diagrams, system
+architecture, terminology, and technical methods, is released for public
+academic review and scientific discussion. All rights are reserved by the
+author unless explicitly permitted below.
+
+PERMITTED USES:
+1. Academic reading, citation, and non-commercial scholarly analysis.
+2. Sharing links to the original Zenodo record.
+3. Inclusion in literature reviews, academic references, and scientific
+   evaluations.
+4. The creation of independent theoretical models that do not reuse the
+   architecture, diagrams, terminology, naming conventions, or system
+   structures defined in this work.
+
+PROHIBITED WITHOUT EXPLICIT WRITTEN PERMISSION:
+1. Commercial use of this work or any derivative.
+2. Any modification, adaptation, translation, or derivative work based on
+   the diagrams, architecture, terminology, or concepts defined in this
+   document.
+3. Filing or supporting patents (public or secret), proprietary claims,
+   industrial intellectual property, or private R&D claims that reuse 
+   elements of the PLED-Drive system, TSMTR-V1 architecture, CLCZ,
+   PRM, or related structures.
+4. Use of this work in classified, military, private industrial, or
+   commercial research programs.
+5. Redistribution of altered or incomplete versions.
+
+CONCEPTUAL ELEMENTS PROTECTED:
+- "Photon Lifetime Extended Toroidal Drive (PLED-Drive)"
+- "Triple-Stage Managed Toroidal Resonator (TSMTR-V1)"
+- "Controlled-Loss Coupling Zone (CLCZ)"
+- "Photon Recycling Mirror (PRM)"
+- All diagrams, pathway schematics, and architectural layers
+- Naming conventions, terminology, and system flow
+
+USAGE CONDITIONS:
+Any reuse must always reference the DOI:
+https://doi.org/10.5281/zenodo.17851135
+and credit:
+Harrison Saavedra — Independent Researcher (2025)
+
+For collaboration, authorization, or permissions, please contact the author
+directly.
