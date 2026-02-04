@@ -97,5 +97,5 @@ See LICENSE for full details.
 
 For scientific collaboration or inquiries:
 
-Email: [tu correo]
+Email: halsaavedra@icloud.com
 Affiliation: Independent Researcher
